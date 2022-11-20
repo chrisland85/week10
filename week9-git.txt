@@ -1,1 +1,2 @@
 “This is line 1, Intro to Git”
+I am also adding another file this file being the originator
